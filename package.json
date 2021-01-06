@@ -4,7 +4,7 @@
   "description": "Code for MERN tutorial.",
   "private": true,
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "react": "^16.13.1",
     "react-datepicker": "^3.0.0",
